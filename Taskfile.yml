@@ -1,0 +1,6 @@
+version: "3"
+
+tasks:
+  build-save-rate:
+    cmds:
+      - go build cmd/share_lover/save_rate/main.go
